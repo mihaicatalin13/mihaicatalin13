@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3 align="center">Solving Problems w/ Software Engineering</h3>
 
-<!--
-**mihaicatalin13/mihaicatalin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💸 I’m currently developing Internet & Mobile Banking apps for various banks in Romania
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React.js and Next.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mihai-grig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mihai-grig" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihaicatalin13&show_icons=true&theme=dark&locale=en" alt="mihaicatalin13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihaicatalin13&theme=dark" alt="mihaicatalin13" /></p>
